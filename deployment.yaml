@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: confuscious1/capstone1
+        image: confuscious1/cap2
         ports:
         - containerPort: 80
